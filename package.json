@@ -1,0 +1,27 @@
+{
+  "name": "workflows",
+  "description": "workflows",
+  "version": "0.0.0",
+  "author": {
+    "name": "serandives",
+    "email": "serandives@gmail.com"
+  },
+  "dependencies": {
+    "aws-sdk": "2.175.0",
+    "request": "2.81.0",
+    "ioredis": "3.2.2",
+    "bcrypt": "2.0.1",
+    "async": "1.*",
+    "uuid": "3.3.3",
+    "string-template": "1.0.0",
+    "deep-object-diff": "1.1.0",
+    "json-stringify-safe": "5.0.1",
+    "logger": "serandules/logger#master",
+    "model-workflows": "serandules/model-workflows#master",
+    "utils": "serandules/utils#master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/serandules/workflows.git"
+  }
+}
